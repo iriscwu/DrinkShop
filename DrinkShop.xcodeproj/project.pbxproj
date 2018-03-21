@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DB75F90E2057ABB200A8EE01 /* DrinkData.m in Sources */ = {isa = PBXBuildFile; fileRef = DB75F90D2057ABB200A8EE01 /* DrinkData.m */; };
+		DB75F9112058ECB800A8EE01 /* CartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DB75F9102058ECB800A8EE01 /* CartViewController.m */; };
+		DB9F8FBE20567F1C00369262 /* DataCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DB9F8FBD20567F1C00369262 /* DataCell.xib */; };
+		DB9F8FC120567F5700369262 /* DataCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DB9F8FC020567F5700369262 /* DataCell.m */; };
+		DBA1BE4120512EAF00840AF1 /* Stores.json in Resources */ = {isa = PBXBuildFile; fileRef = DBA1BE4020512EAE00840AF1 /* Stores.json */; };
+		DBA1BE442052334000840AF1 /* myCellTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DBA1BE432052334000840AF1 /* myCellTableViewCell.m */; };
+		DBA1BE4720525BD100840AF1 /* ShopViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBA1BE4620525BD100840AF1 /* ShopViewController.m */; };
+		DBA1BE4B205268EB00840AF1 /* drinkOfStore3.json in Resources */ = {isa = PBXBuildFile; fileRef = DBA1BE48205268EB00840AF1 /* drinkOfStore3.json */; };
+		DBA1BE4C205268EB00840AF1 /* drinkOfStore2.json in Resources */ = {isa = PBXBuildFile; fileRef = DBA1BE49205268EB00840AF1 /* drinkOfStore2.json */; };
+		DBA1BE4D205268EB00840AF1 /* drinkOfStore1.json in Resources */ = {isa = PBXBuildFile; fileRef = DBA1BE4A205268EB00840AF1 /* drinkOfStore1.json */; };
+		DBA2A72C2057851D00321061 /* AlertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBA2A72B2057851D00321061 /* AlertViewController.m */; };
+		DBD0E81A204FEF9D00748358 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DBD0E819204FEF9D00748358 /* AppDelegate.m */; };
+		DBD0E81D204FEF9D00748358 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DBD0E81C204FEF9D00748358 /* ViewController.m */; };
+		DBD0E820204FEF9D00748358 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBD0E81E204FEF9D00748358 /* Main.storyboard */; };
+		DBD0E822204FEF9D00748358 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBD0E821204FEF9D00748358 /* Assets.xcassets */; };
+		DBD0E825204FEF9D00748358 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBD0E823204FEF9D00748358 /* LaunchScreen.storyboard */; };
+		DBD0E828204FEF9D00748358 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DBD0E827204FEF9D00748358 /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DB75F90C2057ABB200A8EE01 /* DrinkData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DrinkData.h; sourceTree = "<group>"; };
+		DB75F90D2057ABB200A8EE01 /* DrinkData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrinkData.m; sourceTree = "<group>"; };
+		DB75F90F2058ECB800A8EE01 /* CartViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CartViewController.h; sourceTree = "<group>"; };
+		DB75F9102058ECB800A8EE01 /* CartViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CartViewController.m; sourceTree = "<group>"; };
+		DB9F8FBD20567F1C00369262 /* DataCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DataCell.xib; sourceTree = "<group>"; };
+		DB9F8FBF20567F5700369262 /* DataCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataCell.h; sourceTree = "<group>"; };
+		DB9F8FC020567F5700369262 /* DataCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataCell.m; sourceTree = "<group>"; };
+		DBA1BE4020512EAE00840AF1 /* Stores.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Stores.json; sourceTree = "<group>"; };
+		DBA1BE422052334000840AF1 /* myCellTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = myCellTableViewCell.h; sourceTree = "<group>"; };
+		DBA1BE432052334000840AF1 /* myCellTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myCellTableViewCell.m; sourceTree = "<group>"; };
+		DBA1BE4520525BD100840AF1 /* ShopViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShopViewController.h; sourceTree = "<group>"; };
+		DBA1BE4620525BD100840AF1 /* ShopViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShopViewController.m; sourceTree = "<group>"; };
+		DBA1BE48205268EB00840AF1 /* drinkOfStore3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = drinkOfStore3.json; sourceTree = "<group>"; };
+		DBA1BE49205268EB00840AF1 /* drinkOfStore2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = drinkOfStore2.json; sourceTree = "<group>"; };
+		DBA1BE4A205268EB00840AF1 /* drinkOfStore1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = drinkOfStore1.json; sourceTree = "<group>"; };
+		DBA2A72A2057851D00321061 /* AlertViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlertViewController.h; sourceTree = "<group>"; };
+		DBA2A72B2057851D00321061 /* AlertViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlertViewController.m; sourceTree = "<group>"; };
+		DBD0E815204FEF9D00748358 /* DrinkShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrinkShop.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBD0E818204FEF9D00748358 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DBD0E819204FEF9D00748358 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DBD0E81B204FEF9D00748358 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DBD0E81C204FEF9D00748358 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DBD0E81F204FEF9D00748358 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DBD0E821204FEF9D00748358 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DBD0E824204FEF9D00748358 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DBD0E826204FEF9D00748358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBD0E827204FEF9D00748358 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DBD0E812204FEF9D00748358 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DBD0E80C204FEF9D00748358 = {
+			isa = PBXGroup;
+			children = (
+				DBD0E817204FEF9D00748358 /* DrinkShop */,
+				DBD0E816204FEF9D00748358 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DBD0E816204FEF9D00748358 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DBD0E815204FEF9D00748358 /* DrinkShop.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DBD0E817204FEF9D00748358 /* DrinkShop */ = {
+			isa = PBXGroup;
+			children = (
+				DBD0E818204FEF9D00748358 /* AppDelegate.h */,
+				DBD0E819204FEF9D00748358 /* AppDelegate.m */,
+				DBD0E81B204FEF9D00748358 /* ViewController.h */,
+				DBD0E81C204FEF9D00748358 /* ViewController.m */,
+				DBD0E81E204FEF9D00748358 /* Main.storyboard */,
+				DBD0E821204FEF9D00748358 /* Assets.xcassets */,
+				DBD0E823204FEF9D00748358 /* LaunchScreen.storyboard */,
+				DBA1BE4020512EAE00840AF1 /* Stores.json */,
+				DBA1BE4A205268EB00840AF1 /* drinkOfStore1.json */,
+				DBA1BE49205268EB00840AF1 /* drinkOfStore2.json */,
+				DBA1BE48205268EB00840AF1 /* drinkOfStore3.json */,
+				DBD0E826204FEF9D00748358 /* Info.plist */,
+				DBD0E827204FEF9D00748358 /* main.m */,
+				DBA1BE422052334000840AF1 /* myCellTableViewCell.h */,
+				DBA1BE432052334000840AF1 /* myCellTableViewCell.m */,
+				DBA1BE4520525BD100840AF1 /* ShopViewController.h */,
+				DBA1BE4620525BD100840AF1 /* ShopViewController.m */,
+				DB9F8FBD20567F1C00369262 /* DataCell.xib */,
+				DB9F8FBF20567F5700369262 /* DataCell.h */,
+				DB9F8FC020567F5700369262 /* DataCell.m */,
+				DBA2A72A2057851D00321061 /* AlertViewController.h */,
+				DBA2A72B2057851D00321061 /* AlertViewController.m */,
+				DB75F90C2057ABB200A8EE01 /* DrinkData.h */,
+				DB75F90D2057ABB200A8EE01 /* DrinkData.m */,
+				DB75F90F2058ECB800A8EE01 /* CartViewController.h */,
+				DB75F9102058ECB800A8EE01 /* CartViewController.m */,
+			);
+			path = DrinkShop;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DBD0E814204FEF9D00748358 /* DrinkShop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DBD0E82B204FEF9D00748358 /* Build configuration list for PBXNativeTarget "DrinkShop" */;
+			buildPhases = (
+				DBD0E811204FEF9D00748358 /* Sources */,
+				DBD0E812204FEF9D00748358 /* Frameworks */,
+				DBD0E813204FEF9D00748358 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DrinkShop;
+			productName = DrinkShop;
+			productReference = DBD0E815204FEF9D00748358 /* DrinkShop.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DBD0E80D204FEF9D00748358 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = Iris.Wu;
+				TargetAttributes = {
+					DBD0E814204FEF9D00748358 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = DBD0E810204FEF9D00748358 /* Build configuration list for PBXProject "DrinkShop" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DBD0E80C204FEF9D00748358;
+			productRefGroup = DBD0E816204FEF9D00748358 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DBD0E814204FEF9D00748358 /* DrinkShop */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DBD0E813204FEF9D00748358 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DBA1BE4D205268EB00840AF1 /* drinkOfStore1.json in Resources */,
+				DBD0E825204FEF9D00748358 /* LaunchScreen.storyboard in Resources */,
+				DBD0E822204FEF9D00748358 /* Assets.xcassets in Resources */,
+				DBD0E820204FEF9D00748358 /* Main.storyboard in Resources */,
+				DBA1BE4B205268EB00840AF1 /* drinkOfStore3.json in Resources */,
+				DBA1BE4C205268EB00840AF1 /* drinkOfStore2.json in Resources */,
+				DBA1BE4120512EAF00840AF1 /* Stores.json in Resources */,
+				DB9F8FBE20567F1C00369262 /* DataCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DBD0E811204FEF9D00748358 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DB75F90E2057ABB200A8EE01 /* DrinkData.m in Sources */,
+				DBD0E81D204FEF9D00748358 /* ViewController.m in Sources */,
+				DBA1BE442052334000840AF1 /* myCellTableViewCell.m in Sources */,
+				DBA2A72C2057851D00321061 /* AlertViewController.m in Sources */,
+				DBD0E828204FEF9D00748358 /* main.m in Sources */,
+				DB9F8FC120567F5700369262 /* DataCell.m in Sources */,
+				DBA1BE4720525BD100840AF1 /* ShopViewController.m in Sources */,
+				DB75F9112058ECB800A8EE01 /* CartViewController.m in Sources */,
+				DBD0E81A204FEF9D00748358 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DBD0E81E204FEF9D00748358 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DBD0E81F204FEF9D00748358 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DBD0E823204FEF9D00748358 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DBD0E824204FEF9D00748358 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DBD0E829204FEF9D00748358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		DBD0E82A204FEF9D00748358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DBD0E82C204FEF9D00748358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = DrinkShop/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Iris.Wu.DrinkShop;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DBD0E82D204FEF9D00748358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = DrinkShop/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Iris.Wu.DrinkShop;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DBD0E810204FEF9D00748358 /* Build configuration list for PBXProject "DrinkShop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBD0E829204FEF9D00748358 /* Debug */,
+				DBD0E82A204FEF9D00748358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DBD0E82B204FEF9D00748358 /* Build configuration list for PBXNativeTarget "DrinkShop" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DBD0E82C204FEF9D00748358 /* Debug */,
+				DBD0E82D204FEF9D00748358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DBD0E80D204FEF9D00748358 /* Project object */;
+}
