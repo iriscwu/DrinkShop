@@ -1,0 +1,19 @@
+{
+	"stores" : [
+		{
+			"id" : "1",
+			"name" : "五十嵐",
+			"filename": "drinkOfStore1.json"
+		},
+		{
+			"id" : "2",
+			"name" : "8%",
+			"filename": "drinkOfStore2.json"
+		},
+		{
+			"id" : "3",
+			"name" : "斜角巷",
+			"filename": "drinkOfStore3.json"
+		}
+	]
+}

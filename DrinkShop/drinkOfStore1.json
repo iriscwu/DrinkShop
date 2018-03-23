@@ -1,0 +1,194 @@
+{
+	"tea" : [
+		{
+			"id" : "1",
+			"name" : "茉莉綠茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "2",
+			"name" : "阿薩姆紅茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "3",
+			"name" : "四季春茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "4",
+			"name" : "黃金烏龍",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "5",
+			"name" : "檸檬綠茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		}
+	],
+	"milk_tea" : [
+		{
+			"id" : "6",
+			"name" : "奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "7",
+			"name" : "奶綠",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "8",
+			"name" : "紅茶瑪奇朵",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "9",
+			"name" : "黃金烏龍奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "10",
+			"name" : "四季奶青",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "11",
+			"name" : "阿華田",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "12",
+			"name" : "可可芭蕾",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		}
+	],
+	"tea_latte" : [
+		{
+			"id" : "13",
+			"name" : "紅茶拿鐵",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "14",
+			"name" : "綠茶拿鐵",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "15",
+			"name" : "黃金烏龍拿鐵",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "16",
+			"name" : "阿華田拿鐵",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "17",
+			"name" : "可可芭蕾拿鐵",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		}
+	]
+}

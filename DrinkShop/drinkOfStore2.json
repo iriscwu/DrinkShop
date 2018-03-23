@@ -1,0 +1,307 @@
+{
+	"tea" : [
+		{
+			"id" : "1",
+			"name" : "台灣抹香綠茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "2",
+			"name" : "白毫綠茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "3",
+			"name" : "台灣四季春青茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "4",
+			"name" : "伯爵紅茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		},
+		{
+			"id" : "5",
+			"name" : "阿薩姆紅茶",
+			"type" : "tea",
+			"sizes":[
+				"Large"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			]
+		}
+	],
+	"milk_tea" : [
+		{
+			"id" : "6",
+			"name" : "伯爵奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "7",
+			"name" : "阿薩姆奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "8",
+			"name" : "白毫綠奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "9",
+			"name" : "抹香綠奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "10",
+			"name" : "四季春奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "11",
+			"name" : "黑糖薑母奶茶",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		},
+		{
+			"id" : "12",
+			"name" : "麥香奶茶(新上市)",
+			"type" : "milk tea",
+			"sizes":[
+				"Middle"
+			]
+		}
+	],
+	"tea_latte" : [
+		{
+			"id" : "13",
+			"name" : "伯爵鮮奶茶",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "14",
+			"name" : "阿薩姆鮮奶茶",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "15",
+			"name" : "白毫綠鮮奶茶",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "16",
+			"name" : "抹香綠鮮奶茶",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "17",
+			"name" : "四季春鮮奶茶",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "18",
+			"name" : "黑糖薑母鮮奶茶",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		},
+		{
+			"id" : "19",
+			"name" : "麥香鮮奶茶(新上市)",
+			"type" : "tea latte",
+			"sizes":[
+				"Large",
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf"
+			]
+		}
+	],
+	"special_drink" : [
+		{
+			"id" : "20",
+			"name" : "葡萄柚鮮果綠",
+			"type" : "special drink",
+			"sizes":[
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			],
+			"ingredients":[
+				"Bubble",
+				"Soda"
+			]
+		},
+		{
+			"id" : "21",
+			"name" : "多多檸檬綠",
+			"type" : "special drink",
+			"sizes":[
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			],
+			"ingredients":[
+				"Bubble",
+				"Soda"
+			]
+		},
+		{
+			"id" : "22",
+			"name" : "甘蔗四季春",
+			"type" : "special drink",
+			"sizes":[
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			],
+			"ingredients":[
+				"Bubble",
+				"Soda"
+			]
+		},
+		{
+			"id" : "23",
+			"name" : "檸檬綠小紫蘇",
+			"type" : "special drink",
+			"sizes":[
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			],
+			"ingredients":[
+				"Bubble",
+				"Soda"
+			]
+		},
+		{
+			"id" : "24",
+			"name" : "冬瓜四季春小紫蘇",
+			"type" : "special drink",
+			"sizes":[
+				"Middle"
+			],
+			"sugars":[
+				"Full",
+				"Helf",
+				"No"
+			],
+			"ingredients":[
+				"Bubble",
+				"Soda"
+			]
+		}
+	]
+}
